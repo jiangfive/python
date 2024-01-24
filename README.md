@@ -1,2 +1,2 @@
 # python
-My record of study python.
+My notes of study python.
